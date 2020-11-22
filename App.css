@@ -1,0 +1,34 @@
+body{
+  margin:50px
+}
+#bmi{
+  float:left;
+  margin:40px;
+}
+#bmi h3{
+  text-align: center;
+}
+
+#cbnk{
+  float:left;
+  margin:40px;
+}
+#cbnk h3{
+  text-align: center;
+}
+
+#hha{
+  float: left;
+  margin: 40px;
+}
+#hha h3{
+  text-align: center;
+}
+
+#kb{
+  float: left;
+  margin:40px;
+}
+#kb h3{
+  text-align: center;
+}
